@@ -11,6 +11,6 @@ package sara.rodriguez.departamento;
 public class Departamento {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("bienvenidos a departamentos de obra publicas");
     }
 }
